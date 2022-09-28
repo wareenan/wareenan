@@ -16,7 +16,7 @@
 - Web Devlopment Tools: HTML, CSS, and Basic JavaScript
 
 📚 **PROJECTS**
-- Click <a href="#" target="_blank"><strong>HERE</strong></a> for my projects!
+- Click <a href="https://github.com/wareenan/Portfolio-Guide" target="_blank"><strong>HERE</strong></a> for my projects!
 
 :handshake: **Get In Touch()**
 - <a href="https://www.linkedin.com/in/wareenanb/" target="_blank">Linkedin</a>
