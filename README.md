@@ -3,21 +3,21 @@
 
 📂	**About me:**
 - [x] I'm Wareenan, You can call me **Warm** a data analyst based in Thailand;
-- [ ] Interested in Data Analytics and Front-End development;
+- [ ] Interested in Data Analytics, Analytics Engineer, BI Dev and Front-End development;
 - [ ] Learning Enthusiast;
 
 📌 **Now:**
 - Working as Junior Business Intelligence Analyst.
 - Using Infor Application Studio for daily work.
-- Learning all about 'Data Analytics' and 'Web Development'
+- Learning all about 'Data World', 'UX/UI', and 'Web Development'
 
 📈 **Skills:**
 - Analytic Tools: 
   - SQL (DDL, DML, Subqueries, Case, and Window Functions)
-  - R (tidyverse, ggplot2 and sqldf)
+  - R (dplyr, tidyverse, ggplot2 and sqldf)
   - Python (Pandas, Numpy, Datetime and Matplotlib)
-  - MS Excel, Google Sheets (Pivot, VLOOKUP)
-  - Power BI, Data Studio, and Tableau
+  - MS Excel, Google Sheets (Pivot, VLOOKUP, XLOOKUP)
+  - Power BI, Data Studio, Tableau, and Infor Application Studio
 - Web Devlopment Tools: HTML, CSS, and Basic JavaScript
 
 📚 **PROJECTS:**
